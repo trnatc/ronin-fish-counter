@@ -33,6 +33,11 @@ A clean, fixed-position panel that displays your fish types, quantity, how many 
 
 ---
 
+## 🐟 Preview
+
+![Fish Counter Screenshot](https://raw.githubusercontent.com/trnatc/ronin-fish-counter/main/Fish.png)
+
+
 ## ☕ Like it? Buy me a coffee in $RON
 
 `0x88888757D076495f53E988ffD1c1294aAC488888`
